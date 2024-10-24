@@ -1,0 +1,10 @@
+.container {
+  background-image: url("image/IMG_3964.JPEG");
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  
+};
+
